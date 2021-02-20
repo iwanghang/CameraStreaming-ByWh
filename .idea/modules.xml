@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CameraStreaming-master-by-wh.iml" filepath="$PROJECT_DIR$/.idea/modules/CameraStreaming-master-by-wh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraStreaming-master-by-wh.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraStreaming-master-by-wh.app.iml" />
+    </modules>
+  </component>
+</project>
